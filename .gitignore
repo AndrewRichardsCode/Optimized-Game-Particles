@@ -1,0 +1,9 @@
+CleanMe.Bat
+Logs.pdf
+Particles - Project.pdf
+.vs/
+Debug/
+GameParticles/Release/
+Release/
+Logs/
+*.user
